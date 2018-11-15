@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/PredefinedModels/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/PredefinedModels/MainWindow.xaml))
+<!-- default file list end -->
 # How to assign different models for series
 
 
